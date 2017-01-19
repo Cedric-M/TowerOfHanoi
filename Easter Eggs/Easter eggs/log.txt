@@ -1,0 +1,11 @@
+
+Le deplacement 1 : 1312
+Le deplacement 2 : 13
+Le deplacement 3 : 12
+Le deplacement 4 : 32
+Le deplacement 5 : 13
+Le deplacement 6 : 21
+Le deplacement 7 : 23
+Le deplacement 8 : 12
+Le deplacement 9 : 23
+Le joueur a terminer en 9 coups et en  37 secondes

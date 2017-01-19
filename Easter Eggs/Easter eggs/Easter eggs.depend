@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1450354828 source:/home/cedric/Desktop/Easter Eggs/Easter eggs/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"affichage.h"
+	"deplacement.h"
+
+1450105660 source:/home/cedric/Desktop/Easter Eggs/Easter eggs/fichier.c
+
+1450093364 /home/cedric/Desktop/Easter Eggs/Easter eggs/fichier.h
+
+1450260930 /home/cedric/Desktop/Easter Eggs/Easter eggs/deplacement.h
+
+1450258239 source:/home/cedric/Desktop/Easter Eggs/Easter eggs/deplacement.c
+
+1450344657 source:/home/cedric/Desktop/Easter Eggs/Easter eggs/affichage.c
+
+1450258116 /home/cedric/Desktop/Easter Eggs/Easter eggs/affichage.h
+
+1450344657 source:/media/cedric/PANDA/Easter Eggs/Easter eggs/affichage.c
+
+1450258239 source:/media/cedric/PANDA/Easter Eggs/Easter eggs/deplacement.c
+
+1450354828 source:/media/cedric/PANDA/Easter Eggs/Easter eggs/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"affichage.h"
+	"deplacement.h"
+
+1450258116 /media/cedric/PANDA/Easter Eggs/Easter eggs/affichage.h
+
+1450260930 /media/cedric/PANDA/Easter Eggs/Easter eggs/deplacement.h
+
